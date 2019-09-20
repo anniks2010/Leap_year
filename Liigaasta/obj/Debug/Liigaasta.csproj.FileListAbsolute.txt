@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\bin\Debug\Liigaasta.exe.config
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\bin\Debug\Liigaasta.exe
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\bin\Debug\Liigaasta.pdb
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\obj\Debug\Liigaasta.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\obj\Debug\Liigaasta.exe
+C:\Users\opilane\Desktop\Liigaasta\Liigaasta\obj\Debug\Liigaasta.pdb
